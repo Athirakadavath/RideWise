@@ -1,1 +1,11 @@
 .env.example
+# Python venv
+venv/
+backend/venv311/
+__pycache__/
+*.pyc
+
+# Node/React
+node_modules/
+build/
+dist/
