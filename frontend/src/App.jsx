@@ -6,7 +6,7 @@ import Home from './Home';
 import Login from './components/auth/Login';
 import Signup from './components/auth/Signup';
 import Predict from './components/prediction/Predict';
-import Dashboard from './components/Dashboard/dashboard';  // ✅ Capital D folder, lowercase d file
+import Dashboard from './components/board/Dashboard';  // ✅ Capital D folder, lowercase d file
 import Analytics from './components/analytics/Analytics';
 import BikeStations from './components/stations/Bikestations';
 import Feedback from './components/common/Feedback';
